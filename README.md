@@ -72,7 +72,9 @@ The reports were designed to guide users through the data by:
   * Products and categories
   * Geographic information
   * Sales and performance metrics
+## My dashboard
 
+[Link to my Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBmMDg0NzctYTE4NS00OWJhLWIwOGQtNjkyNDk5MDNmMjFhIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 ---
 
 ## 🎯 Key Outcomes
