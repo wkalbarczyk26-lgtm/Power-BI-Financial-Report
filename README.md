@@ -40,7 +40,8 @@ Created a range of visualisations to explore and communicate insights:
 * **Line charts** to show sales trends over time
 * **Pie charts** to illustrate proportions and contributions
 * **Maps** to visualise sales performance by location
-
+![Financial Report Project](screenshots/Financial_Report.png)
+![Financial Report Project](screenshots/Financial_Report_2.png)
 ---
 
 ### 🎛️ Interactivity & Reporting
